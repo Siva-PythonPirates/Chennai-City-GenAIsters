@@ -119,4 +119,4 @@ This project provides a strong foundation that can be extended to match the orig
 * **Advanced Inventory Management:** Allow merchants to track stock levels, get sales analytics, and receive AI-powered suggestions for what products to restock.
 * **User & Product Reviews:** Implement a rating system for both buyers and merchants to build trust within the ecosystem.
 
-# For previewing the app you can download the `app-release.apk`
+## For previewing the app you can view the demo here: `https://drive.google.com/drive/folders/13_h2cRcyKFY3pqe29J5augQzNzy_wcyH?usp=sharing`
